@@ -3,7 +3,6 @@
 456 -> 5
 782 -> 8
 918 -> 1*/
-
 Console.WriteLine("Введите число");
 
 int number = int.Parse(Console.ReadLine());
